@@ -1,0 +1,12 @@
+---
+layout: news_item
+title: 'New website for Gala!'
+date: 2015-12-10 12:03:00 +0100
+author: ftiff
+version: 0.1
+categories: [general]
+---
+
+Hey folks! 
+
+This is a new site!

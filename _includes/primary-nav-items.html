@@ -1,0 +1,17 @@
+<ul>
+  <li class="{% if page.overview %}current{% endif %}">
+    <a href="{{ "/" | prepend:site.baseurl }}">Home</a>
+  </li>
+  <li class="{% if page.url contains '/docs/' %}current{% endif %}">
+    <a href={{ "/docs/home/" | prepend:site.baseurl }}>Doc<span class="show-on-mobiles">s</span><span class="hide-on-mobiles">umentation</span></a>
+  </li>
+  <li class="{% if page.author %}current{% endif %}">
+    <a href={{ "/news/" | prepend:site.baseurl }}>News</a>
+  </li>
+  <li>
+    <a href={{ "/help/" | prepend:site.baseurl }}>Help</a>
+  </li>
+  <li>
+    <a href="{{ site.repository }}"><span class="hide-on-mobiles">View on </span>GitHub</a>
+  </li>
+</ul>

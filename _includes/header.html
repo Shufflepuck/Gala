@@ -1,15 +1,18 @@
-    <!-- Header -->
-    <header>
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12">
-                    <img class="img-responsive" src="img/profile.png" alt="">
-                    <div class="intro-text">
-                        <span class="name">{{ site.title }}</span>
-                        <hr class="star-light">
-                        <span class="skills">{{ site.skills }}</span>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </header>
+<header role="banner">
+  <nav class="mobile-nav show-on-mobiles">
+    {% include primary-nav-items.html %}
+  </nav>
+  <div class="grid">
+    <div class="unit one-third center-on-mobiles">
+      <h1>
+        <a href="/">
+          <span class="sr-only">Jekyll</span>
+          <img src={{ "/img/logo-2x.png" |prepend:site.baseurl }} width="249" height="115" alt="Logo">
+        </a>
+      </h1>
+    </div>
+    <nav class="main-nav unit two-thirds hide-on-mobiles">
+      {% include primary-nav-items.html %}
+    </nav>
+  </div>
+</header>
