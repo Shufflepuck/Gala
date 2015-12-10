@@ -11,7 +11,7 @@ email: fti@me.com
 description: > # this means to ignore newlines until "baseurl:"
   Gala is the combination of KerbMinder, ADPassMon and ShareMounter.
   Connect your Mac to Active Directory and auto-mount SMB shares!
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/Gala" # the subpath of your site, e.g. /blog
 url: "http://shufflepuck.github.io/Gala/" # the base hostname & protocol for your site
 #twitter_username: jekyllrb
 github_username:  Shufflepuck 
