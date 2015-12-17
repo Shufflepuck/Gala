@@ -7,6 +7,9 @@
 - title: Gala Components
   docs:
   - pymacad
+  - kerbminder
+  - adpassmon
+  - sharemounter
 
 - title: Comparison
   docs:
