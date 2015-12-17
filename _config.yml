@@ -15,8 +15,8 @@ collections:
 
 name: Gala • Simple integration of your Mac
 description: Connect your Mac to Windows AD, SSO and SMB shares
-url: http://shufflepuck.github.io/Gala
-baseurl: "/Gala"
+url: http://shufflepuck.github.io
+baseurl: /Gala
 repository: http://github.com/shufflepuck/gala
 
 gems:

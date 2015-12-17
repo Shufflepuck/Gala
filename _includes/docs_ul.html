@@ -11,7 +11,7 @@
   {% endif %}
 
   {% assign p = site.docs | where:"url",item_url | first %}
-  <li class="{{ c }}"><a href="{{ site.url }}{{ p.url }}">{{ p.title }}</a></li>
+  <li class="{{ c }}"><a href="{{ site.url }}{{ site.baseurl }}{{ p.url }}">{{ p.title }}</a></li>
 
 {% endfor %}
 </ul>
