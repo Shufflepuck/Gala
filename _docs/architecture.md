@@ -1,3 +1,10 @@
+---
+layout: docs
+title: Architecture
+permalink: /docs/architecture/
+---
+
+
 Gala is comprised of five elements:
 
 * The GUI
