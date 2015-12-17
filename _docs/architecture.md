@@ -25,4 +25,4 @@ It has different submodules:
 * **kerberos** - to initialize, renew and destroy Kerberos tickets. 
 * **keychain** - to create and delete entries in the Keychain.
 
-[Read more…](pymacad.md)
+[Read more…](../pymacad/)
