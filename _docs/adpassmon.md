@@ -3,7 +3,7 @@ layout: docs
 title: ADPassMon
 permalink: /docs/adpassmon/
 ---
-# Getting Started with ADPassMon
+# ADPassMon
 ![adpassmon icon](https://github.com/macmule/ADPassMon/wiki/images/icon_256x256.png)
 
 ## Overview
