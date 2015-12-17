@@ -4,40 +4,34 @@ title: Welcome
 permalink: /docs/home/
 ---
 
-TESTING
-This site aims to be a comprehensive guide to Jekyll. We’ll cover topics such
-as getting your site up and running, creating and managing your content,
-customizing the way your site works and looks, deploying to various
-environments, and give you some advice on participating in the future
-development of Jekyll itself.
+This site aims to help you get started with Gala. We assume you are a *MacAdmin*; that is: a professional Mac Administrator. 
 
-## So what is Jekyll, exactly?
+## So what is Gala, exactly?
 
-Jekyll is a simple, blog-aware, static site generator. It takes a template
-directory containing raw text files in various formats, runs it through
-a converter (like [Markdown](http://daringfireball.net/projects/markdown/))
-and our [Liquid](https://github.com/Shopify/liquid/wiki) renderer, and
-spits out a complete, ready-to-publish static website suitable
-for serving with your favorite web server. Jekyll also happens to be the engine
-behind [GitHub Pages](http://pages.github.com), which means you can use Jekyll
-to host your project’s page, blog, or website from GitHub’s servers **for
-free**.
+Gala is a simple tool to help your Macs:
+
+* Use your Kerberos Single Sign-On (SSO) infrastructure;
+* Present friendly Active Directory (AD) password expirations notifications;
+* Automatically reconnect to your SMB shares.
+
+It is made for *MacAdmins*, by *MacAdmins*, and available **for free**.
+
 
 ## Helpful Hints
 
 Throughout this guide there are a number of small-but-handy pieces of
-information that can make using Jekyll easier, more interesting, and less
+information that can make using Gala easier, more interesting, and less
 hazardous. Here’s what to look out for.
 
 <div class="note">
-  <h5>ProTips™ help you get more from Jekyll</h5>
-  <p>These are tips and tricks that will help you be a Jekyll wizard!</p>
+  <h5>ProTips™ help you get more from Gala</h5>
+  <p>These are tips and tricks that will help you be a Gala wizard!</p>
 </div>
 
 <div class="note info">
   <h5>Notes are handy pieces of information</h5>
   <p>These are for the extra tidbits sometimes necessary to understand
-     Jekyll.</p>
+     Gala.</p>
 </div>
 
 <div class="note warning">
@@ -47,7 +41,7 @@ hazardous. Here’s what to look out for.
 
 <div class="note unreleased">
   <h5>You'll see this by a feature that hasn't been released</h5>
-  <p>Some pieces of this website are for future versions of Jekyll that
+  <p>Some pieces of this website are for future versions of Gala that
     are not yet released.</p>
 </div>
 

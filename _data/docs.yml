@@ -1,5 +1,13 @@
 - title: Getting Started
   docs:
   - home
+  - why-gala
   - architecture
+
+- title: Gala Components
+  docs:
   - pymacad
+
+- title: Comparison
+  docs:
+  - gala-vs-ec
