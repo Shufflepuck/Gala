@@ -9,6 +9,6 @@ Need help with Gala? Try these resources.
 
 Slack is the easiest way to get in touch with the team behind Gala. Try these channels:
 
-* #kerbminder
-* #adpassmon
+* **#kerbminder**
+* **#adpassmon**
 
