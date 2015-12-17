@@ -6,7 +6,8 @@ permalink: /docs/website/
 
 This website is made with Jekyll on Github Pages. Quite neat isn't it? The big advantage is that you can modify it using github. Either directly if you have write access to the repo, or by submitting an issue.
 
-To modify [Webpage index](https://github.com/Shufflepuck/Gala/blob/gh-pages/index.html)
+All pages are hosted on our repository, in the [gh-pages branch](https://github.com/Shufflepuck/Gala/tree/gh-pages).
+For example, to modify [webpage index](https://github.com/Shufflepuck/Gala/blob/gh-pages/index.html).
 
 ### Documentation
 
