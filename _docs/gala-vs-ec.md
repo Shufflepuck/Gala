@@ -1,6 +1,6 @@
 ---
 layout: docs
-title: Gala vs. Apple Enterprise Connect
+title: vs. Enterprise Connect
 permalink: /docs/gala-vs-ec/
 ---
 
