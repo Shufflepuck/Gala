@@ -9,4 +9,4 @@ categories: [general]
 
 Hey folks! 
 
-This is a new site!
+Just created the new website for Gala. I used [Jekyll](http://jekyllrb.com) as a base, and hosted it for free on our Github page. Please follow [these guidelines](http://shufflepuck.github.io/Gala/docs/website/) on how to modify this website.
