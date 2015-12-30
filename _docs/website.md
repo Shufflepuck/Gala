@@ -13,7 +13,7 @@ For example, to modify the webpage index you would modify the following file: [w
 
 On each documentation page, you get a link to improve the page. Follow it to edit it.
 
-To add a documentation page, create a new file with ending with the `.md` file extension in `_docs/`. Make sure and add the correct yaml header (shown below):
+To add a documentation page, create a new file ending with the `.md` file extension in `_docs/`. Make sure and add the correct yaml header (shown below):
 
 {% highlight yaml %}
 ---
